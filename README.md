@@ -1,5 +1,5 @@
 # Dijkstra_Algorithm
-Studying for Dijkstra's algorithm, and implement code by java
+Studying for Dijkstra's algorithm, implement code by java
 
 # File
 **App.java**
